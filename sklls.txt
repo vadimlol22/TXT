@@ -1,0 +1,9 @@
+In courses we learning:
+1)STLC
+2)JS
+3)Postman
+4)GitBash
+5)vpn
+6)DBeaver
+7)fiddler
+
